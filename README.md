@@ -34,3 +34,8 @@ Android app that simulates Reactive RockPaperScissor game using RxJava2.
 	- Emulator - Create a virtual device using AVD manager in Android Studio
 
 2. Click the 'Run' in Android Studio and select the device.
+
+### Sample App
+
+Download the Sample APK in the source (rxrps-app.apk)
+
