@@ -2,11 +2,15 @@
 
 Android app that simulates Reactive RockPaperScissor game using RxJava2.
 
-### Installation
+### Prerequisite
 
 - Download and install Java8
 - Install Android Studio 3.5
 - Android SDK 28.0.3
+
+### Installation
+- Clone this repository
+- Open in Android Studio
 
 ### Libraries used
 1. Android Appcompat library (androidx version)
