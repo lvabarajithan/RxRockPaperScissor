@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RockPaperScissor</string>
+    <string name="main_start_game_btn">Start Game</string>
+    <string name="main_score_board_title">Score Board</string>
+    <string name="main_score_board_player_c">Player C</string>
+    <string name="main_score_board_player_d">Player D</string>
+    <string name="main_score_board_initial_score">0</string>
+    <string name="main_game_board_title">Game board</string>
+    <string name="main_game_initial_state">Press the Start button</string>
+    <string name="main_game_ready_state">Ready!</string>
+    <string name="main_play_again_btn">Play Again</string>
+    <string name="main_next_turn_btn">Next Turn</string>
+    <string name="main_game_state_tie">It\'s a tie! Both get half a point</string>
+    <string name="main_game_state_won">%s gets 1 point</string>
+    <string name="main_game_state_won_the_game">%s won the game</string>
+    <string name="games_title">Games</string>
+    <string name="item_game_id">Game Id: %d</string>
+    <string name="item_game_summary">%s won the game</string>
+    <string name="item_game_played_on">Played on %s</string>
+    <string name="dialog_summary_positive_btn">View Summary</string>
+    <string name="dialog_summary_negative_btn">Cancel</string>
+    <string name="main_view_games_btn">View all games</string>
+</resources>
