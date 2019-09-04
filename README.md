@@ -18,9 +18,9 @@ Android app that simulates Reactive RockPaperScissor game using RxJava2.
 a. Lifecycle - Viewmodel only
 b. Room persistent storage library
 3. Android RecyclerView, CardView and ConstraintLayout (androidx version)
-4. RxJava2
-4. Butterknife
-5. Stetho
+4. RxJava2 and RxAndroid (Reactive Extentions)
+4. Butterknife (Field and method binding for Android views)
+5. Stetho (A debug bridge for Android applications)
 
 ### How to run?
 
