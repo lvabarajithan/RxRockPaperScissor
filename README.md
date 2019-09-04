@@ -15,8 +15,11 @@ Android app that simulates Reactive RockPaperScissor game using RxJava2.
 ### Libraries used
 1. Android Appcompat library (androidx version)
 2. Android Jetpack - Architecture components (androidx version)
-a. Lifecycle - Viewmodel only
-b. Room persistent storage library
+
+	- Lifecycle - Viewmodel only
+
+	- Room persistent storage library
+
 3. Android RecyclerView, CardView and ConstraintLayout (androidx version)
 4. RxJava2 and RxAndroid (Reactive Extentions)
 4. Butterknife (Field and method binding for Android views)
@@ -25,6 +28,9 @@ b. Room persistent storage library
 ### How to run?
 
 1. Choose a device to run
-a. Open Developer options in your phone and enable USB Debugging
-b. Emulator - Create a virtual device using AVD manager in Android Studio
+
+	- Open Developer options in your phone and enable USB Debugging
+
+	- Emulator - Create a virtual device using AVD manager in Android Studio
+
 2. Click the 'Run' in Android Studio and select the device.
