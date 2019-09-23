@@ -20,9 +20,13 @@ Assuming that players can cheat,
 5. If both player score is same, another move is made randomly which decides the winner.
 6. The scores and player moves are saved in a database.
 
-### The code
-1. The game should be scalable, that is, storing data to local storage and cloud database.
-2. More rules can be added to the game.
+### Goal
+1. A button should be clicked to initiate player moves
+2. The player details such as names, scores should be displayed in UI
+3. Game summary for each move should be displayed in UI
+4. Option to see previous game details
+4. The code should be scalable, that is, storing data to local storage and cloud database
+5. Ability to add more rules to the game.
 
 ### What I learnt?
 1. Reactive programming
